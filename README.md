@@ -1,5 +1,6 @@
 # Пронина Алёна
 ![Фото](C:\Users\alena\Desktop\E23A1510.jpg "Это я")
+![E23A1510](https://user-images.githubusercontent.com/104220626/201715385-1cd2eb99-3e4c-4f7d-a936-edc20cb38d68.jpg)
 
 ## Я учусь на Нетологии
 
